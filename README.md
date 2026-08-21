@@ -125,5 +125,6 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 <img width="1917" height="1072" alt="image" src="https://github.com/user-attachments/assets/0174e513-c241-4896-841d-c3a4ce4d6a17" />
+
 ## RESULT
 Thus a Simple Android Application to display the avaliable sensor in android mobile devices using Sensor Manager in Android Studio is developed and executed successfully.
